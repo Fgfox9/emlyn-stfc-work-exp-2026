@@ -18,3 +18,4 @@ notebooks/quadratic_formula_pybind11_noloop.cpp
 notebooks/quadratic_formula_pybind11_noloop.so
 
 solutions-NO-PEEKING/.ipynb_checkpoints
+venv/
